@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>
+      Amor Fati
+    </title>
+  </head>
+
+  <body>
+    <h1>
+      This is VERSION 0.1 for media player WASHED
+    </h1>
+    <p>Soft Echoes for Eyes Be Closed</p>
+    <div>
+      <embed type="image/jpg" src="../media/1.jpg" width="600" height="400">
+      <embed type="image/jpg" src="../media/2.jpg" width="600" height="400">
+      <embed type="video/webm" src="../media/3.mp4" width="400" height="400">
+    </div>
+  </body>
+
+</html>

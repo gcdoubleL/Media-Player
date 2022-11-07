@@ -1,0 +1,17 @@
+body {
+    background-color: violet;
+}
+
+label, input{
+    font-size: 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pick{
+    background-color: purple;
+    border: 5px dotted black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}

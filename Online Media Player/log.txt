@@ -1,0 +1,19 @@
+0.1
+
+All Media is shown as default settings
+Pictures,Videos
+
+0.2
+
+Media is organized and aligned.
+Using css
+Pictures,Videos,Audio
+
+0.3
+
+Using css, js.
+Media is recognized and tag is placed by js.
+
+0.4
+
+New css to make it look better

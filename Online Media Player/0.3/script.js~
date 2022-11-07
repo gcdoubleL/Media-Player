@@ -1,0 +1,6 @@
+const area = document.getElementById("pick");
+const chosenFile = document.getElementById("choice");
+var p = document.createElement('p');
+p.text = chosenFile.value;
+
+area.appendChild(p);

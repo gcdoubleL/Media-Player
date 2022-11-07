@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Amor Fati</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+    <h1>Pious</h1>
+
+    <div id="pick">
+    </div>
+  </body>
+
+</html>

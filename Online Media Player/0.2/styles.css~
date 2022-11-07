@@ -1,0 +1,14 @@
+body {
+    background-color: gray;
+    font: 1.2em "Fira Sans", serif;
+}
+
+.media > * {
+    display: inline-block;
+    vertical-align: middle;
+    background-color: lightgrey;
+}
+
+.img {width: 300px; height: 300px;}
+.vid {width: 300px; height: 300px;}
+.aud {width: 300px; height: 300px;}
