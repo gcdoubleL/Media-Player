@@ -14,7 +14,7 @@ function update(event) {
         newMedia = document.createElement('video');
         newMedia.type = 'video/*';
         newMedia.controls = 'controls';
-    } else if (fileExt === 'flac' || fileExt === 'mp3') {
+    } else if (fileExt === 'm4a' || fileExt === 'mp3' || fileExt === 'flac') {
         newMedia = document.createElement('audio');
         newMedia.type = 'audio/*';
         newMedia.controls = 'controls';
